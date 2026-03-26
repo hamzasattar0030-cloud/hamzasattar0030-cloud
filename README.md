@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Hamza
 
-<!--
-**hamzasattar0030-cloud/hamzasattar0030-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring QA / Junior Software Engineer with hands-on work in:
+- Manual testing
+- Bug reporting
+- Python projects
+- API testing
 
-Here are some ideas to get you started:
+## Featured Projects
+- **QA Portfolio** – manual test cases, bug reports, screenshots
+- **Python Bug Tracker CLI** – bug management tool with status, priority, and date tracking
+- **Python API Testing** – API response validation using Python and requests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- ISTQB Foundation
+- Python
+- API testing
+- SQL basics
+
+## Contact
+- Email: hamza.sattar0030@gmail.com
