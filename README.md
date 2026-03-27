@@ -83,7 +83,7 @@ I am transitioning into software engineering with hands-on experience in Python,
 ## 📫 Contact Me
 
 * 📧 Email: [hamza.sattar0030@gmail.com](mailto:hamza.sattar0030@gmail.com)
-* 💼 LinkedIn: (add your LinkedIn if you have one)
+  
 
 ---
 
