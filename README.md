@@ -63,7 +63,14 @@ Transitioning into software testing with hands‑on experience in Python, API te
 - Improving Python skills  
 - Expanding API testing knowledge  
 - Learning backend concepts  
-- Preparing for ISTQB CTFL certification  
+- Preparing for ISTQB CTFL certification
+
+- ## How to review this project
+1. Start with the test plan
+2. Review the test cases
+3. Check the bug reports
+4. Look at screenshots
+5. Read the test summary
 
 ---
 
