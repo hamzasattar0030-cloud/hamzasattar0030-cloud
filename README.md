@@ -50,12 +50,12 @@ Transitioning into software testing with hands‑on experience in Python, API te
 ### 🐞 **Python Bug Tracker**
 - CLI-based bug tracking system  
 - Bug creation, status tracking, and prioritisation  
-🔗 Repo: https://github.com/hamzasattar0030-cloud
+🔗 Repo: https://github.com/hamzasattar0030-cloud/bug-tracker-python
 
 ### 🔌 **Python API Testing**
 - Tested API endpoints using Python (`requests`)  
 - Validated status codes and response data  
-🔗 Repo: https://github.com/hamzasattar0030-cloud
+🔗 Repo: https://github.com/hamzasattar0030-cloud/python-api-testing
 
 ---
 
